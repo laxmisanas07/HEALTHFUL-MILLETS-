@@ -137,4 +137,23 @@ Highlights:
 
 ---
 
+---
+
+## 📄 Research Publication
+
+This project is also supported by a published research paper in a reputed international journal:
+
+> **Journal**: *International Journal of Advanced Research in Science, Communication and Technology (IJARSCT)*  
+> **Title**: *Healthful Millets*  
+> **Authors**: Ms. Laxmi Ananda Sanas, Mr. Pranav Sandip Wadge, Mr. Suyash Narendra Patil, Ms. Priyanka Rajendra Mahale  
+> **Project Guide**: Mr. P. R. Sonawane  
+> **Volume**: 4  
+> **Issue**: 1  
+> **Date**: March 2024  
+> **DOI**: [10.48175/IJARSCT-15644](https://doi.org/10.48175/IJARSCT-15644)  
+> **ISSN**: 2581-9429
+
+🔗 **Journal Website**: [www.ijarsct.co.in](https://www.ijarsct.co.in)
+
+
 🔗 *Stay tuned for live demo and source code updates!*
